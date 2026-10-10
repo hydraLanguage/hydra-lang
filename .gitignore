@@ -1,0 +1,10 @@
+# Clone local usado apenas como referência arquitetural.
+/Kof4j/
+
+# Artefatos locais de desenvolvimento e compilação.
+/.idea/
+/.vscode/
+**/target/
+**/build/
+**/out/
+.DS_Store
